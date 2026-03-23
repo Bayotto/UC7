@@ -1,0 +1,46 @@
+Exercício 1 — Complete com do ou does
+
+1. Do
+2. Does
+3. Do
+4. Does
+5. Does
+
+Do you speak english?
+Do you like a pokemon?
+Do you have a masterball?
+Do they test your favorite fire pokemons?
+Do peoples speak much your language in one form correct?
+
+
+Exercício 2 — Complete com did
+
+1. Did you deploy yesterday?
+2. Did the server crash?
+3. Didthey fix the bug?
+4. Did the API return an error?
+5. Did the system fail?
+
+
+Did you work last night?
+Did you from me?
+Did you like america when you going?
+Did know you, girl?
+Did you sleep well?
+
+Exercício 3 — Transforme em negativa
+
+1. Developers do not use SVN.
+2. The API does not return XML.
+3. She does not write backend code.
+4. The system does not store passwords.
+5. The server does not process requests.
+
+Exercício 4 — Negativa no passado
+
+1. We didn't tested the system.
+2. The server did not restart. 
+3. She did not fix the bug. 
+4. They did not push the code. 
+5. The API did not respond. 
+
